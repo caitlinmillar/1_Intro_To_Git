@@ -1,5 +1,5 @@
 # Terminal and Git- *Cheat Sheet* 
-The terminal allows for the most efficient and speedy commands. The following lists display all the commands we learnt today:
+The terminal allows for implementing commands as fast and efficiently as possible. The command line is also where you run all of your Git commands. The following lists display all the commands we learnt today:
 # Terminal
 ## *Where am I?* 🌠
 - **'pwd'**: Shows the location of the file you're currently in
