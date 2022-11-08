@@ -31,8 +31,8 @@ The terminal allows for the most efficient and speedy commands. The following li
 
 ```
 {
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
+➜  intro_to_git git:(main) ✗ git init
+➜  intro_to_git git:(main) ✗ git add cheat_sheet.md 
+➜  intro_to_git git:(main) ✗ git commit -m"headings"
 }
 ```
