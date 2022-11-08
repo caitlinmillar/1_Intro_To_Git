@@ -26,7 +26,7 @@ The terminal allows for implementing commands as fast and efficiently as possibl
 # Git
 - **'git init'**: Initialises Git repo (or re-initialises)
 - **'git add [*file name*]'**: Makes Git track that file
-- **'git commit -m[*describe the changes*]'**: Log the changes you've made (you have to add/stage first)
+- **'git commit -m["*describe the changes*"]'**: Log the changes you've made (you have to add/stage first)
 - **'git push origin main'**- pushes the file to the repo
 
 ```
